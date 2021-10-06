@@ -1,0 +1,61 @@
+#pic{
+  border-radius: 200px;
+  width:350px;
+  height: 350px;
+  right:60px;
+  top:30px;
+  position: absolute;
+  border: 7px solid blue;
+}
+
+body{
+  background-color: black;
+  background-image: url("tile.jpg");
+  margin: 40px 80px 40px 100px;
+}
+
+#personal
+{
+  font-size: 30px;
+  color: white;
+  line-height: 45px;
+}
+
+#edu{
+  font-size: 30px;
+  color: white;
+  line-height: 45px;
+  direction: rtl;
+}
+
+div u{
+  font-size: 40px;
+}
+
+div p u{
+  font-size: 50px;
+  font-family: cursive;
+  color: white;
+}
+
+#about
+{
+  font-size: 30px;
+  font-family: cooper;
+  line-height: 45px;
+  color: white;
+  margin-left: 80px;
+  margin-right: 40px;
+}
+
+
+#end
+{
+  font-size: 20px;
+  line-height: 30px;
+  color: white;
+}
+
+a{
+  color: yellow;
+}
