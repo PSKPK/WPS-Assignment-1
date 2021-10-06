@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Login page</title>
+    <link rel="stylesheet" href="Page1.css">
+    <script type="text/javascript" src="loginjs.js"></script>
+  </head>
+  <body>
+    <div id="about">
+      <h1>Please enter your details below to continue</h1>
+    </div>
+    <table id="logintable" cellpadding="10px" cellspacing="10px">
+      <tr>
+        <td><label for="usern">Username </label></td>
+        <td>:&emsp;<input type="text" name="usern" id="username" style="font-size: 25px;"></td>
+      </tr>
+      <tr>
+        <td><label for="psw">Password </label></td>
+        <td>:&emsp;<input type="password" name="psw" id="pswd" style="font-size: 25px;"></td>
+      </tr>
+    </table>
+    <div style="margin: auto; left: 48%; position: absolute;">
+      <button type="submit"  onclick="checkCred()" name="button" style="width: 90px;height: 45px; font-size: 25px;">Login</button>
+    </div>
+    <br>
+  </body>
+</html>

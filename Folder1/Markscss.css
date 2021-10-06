@@ -1,0 +1,49 @@
+table{
+  border: 2px solid black;
+}
+
+.yel{
+  background-color: #f4ff00;
+}
+
+.dirt{
+  background-color: #d6d2bf;
+}
+
+.lightred{
+  background-color: #f2a5a5;
+}
+
+table,td,th{
+  text-align: center;
+  font-size: 25px;
+  border: 1px solid black;
+}
+
+body{
+  padding-left: 90px;
+  text-align: center;
+}
+
+[name="1"]{
+  background-color: red;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+[name="3"]{
+  background-color: red;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.redlet{
+  color: red;
+  font-weight: bold;
+}
+
+.liblue{
+  background-color: #94b9ff;
+}

@@ -1,0 +1,134 @@
+#title{
+  font-size: 150px;
+  padding: 40px 40px 80px 40px;
+  background-image: linear-gradient(to right,#217f8a,#3feafc,#bdf8ff,#3feafc,#217f8a);
+  text-align: center;
+  text-decoration: underline;
+  font-family: gabriola;
+  border-top: 3px solid black;
+  border-left: 3px solid black;
+  border-right: 3px solid black;
+  border-bottom: 3px solid black;
+}
+
+body{
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 20px;
+  padding-bottom: 60px;
+  border-top: 10px solid black;
+  border-bottom: 10px solid black;
+  border-left: 10px solid black;
+  border-right: 10px solid black;
+  background-color: #f4e0ff;
+  margin : 30px 30px 20px 30px;
+}
+
+#menu table td{
+  background-color: #0000d9;
+  color: #ffffff;
+  padding: 15px 30px;
+  font-size: 18px;
+  border: 1px solid black;
+}
+
+#menu a{
+  color: white;
+  text-decoration: none;
+}
+
+#image1{
+  width: 800px;
+  height: 500px;
+  border-radius: 20px;
+}
+
+#imagebox{
+  width: 800px;
+  border: 1px solid #16f530;
+  padding: 10px;
+  background-color: #414142;
+  color: white;
+}
+
+#imagebox2{
+  width: 450px;
+  padding: 10px;
+  background-color: #414142;
+  color: white;
+  border: 1px solid #000094;
+  position: absolute;
+  top: 630px;
+  right: 80px;
+  text-align: center;
+  border: 3px solid #16f530;
+}
+
+#momo{
+  align-items: center;
+  padding-top: 30px;
+  padding-left: 50px;
+  padding-right: 20px;
+  width:350px;
+  height: 350px;
+  border-radius: 200px;
+}
+
+#momoframe{
+  position: absolute;
+  z-index: 10;
+  width: 380px;
+  height: 380px;
+  top:650px;
+  right:115px;
+}
+
+#about{
+  padding-left: 73px;
+  padding-right: 96px;
+  font-size: 20px;
+  font-style: italic;
+}
+
+#about h1{
+  font-style: italic;
+  text-decoration: underline;
+  font-family: gabriola;
+  color: darkblue;
+}
+
+ul li{
+  font-style: italic;
+  font-size: 20px;
+}
+
+ul{
+  font-size: 25px;
+}
+
+#placetable th{
+  border: 3px solid black;
+  font-size: 30px;
+  text-align: center;
+}
+
+#placetable td{
+  border: 3px solid black;
+  font-size: 20px;
+  text-align: center;
+}
+
+#placetable,img{
+  width: 200px;
+  height: 260px;
+}
+
+#logintable{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#logintable td{
+  font-size: 40px;
+  font-family: gabriola;
+}
